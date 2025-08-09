@@ -1,0 +1,240 @@
+{
+  "day_1": {
+    "title": "День 1 — Сила кора и тазового дна",
+    "intro": "Фокус на мягкую силу, безопасность для поясницы. Разминка 2–3 мин дыханием.",
+    "video": {
+      "url": "https://example.com/day1_video.mp4",
+      "caption": "Сила кора и тазового дна (14 мин). Замените на свою ссылку или file_id."
+    },
+    "meditation": {
+      "url": "https://example.com/day1_meditation.mp3",
+      "caption": "Короткая медитация на принятие тела (5 мин)."
+    },
+    "tasks": [
+      "BodyFlex 15–20 мин",
+      "Гидратация: +2 стакана воды",
+      "Заметка: что далось легко/сложно?"
+    ]
+  },
+  "day_2": {
+    "title": "День 2 — Самый быстрый пилатес для сжигания",
+    "intro": "Короткая интенсивность без прыжков. Следи за дыханием.",
+    "video": {
+      "url": "https://example.com/day2_video.mp4",
+      "caption": "Быстрый пилатес (11 мин)."
+    },
+    "meditation": {
+      "url": "https://example.com/day2_meditation.mp3",
+      "caption": "Дыхание от тревоги перед едой (4 мин)."
+    },
+    "tasks": [
+      "Виброплатформа утром 10 мин",
+      "Прогулка 15–20 мин",
+      "Запись: уровень голода/сытости по шкале 1–10"
+    ]
+  },
+  "day_3": {
+    "title": "День 3 — Модельные ноги и упругая попка",
+    "intro": "Упор на бёдра и ягодицы, бережно к пояснице.",
+    "video": {
+      "url": "https://example.com/day3_video.mp4",
+      "caption": "Ноги+ягодицы (7 мин)."
+    },
+    "meditation": {
+      "url": "https://example.com/day3_meditation.mp3",
+      "caption": "Визуализация лёгкости (5 мин)."
+    },
+    "tasks": [
+      "Растяжка 5–7 мин",
+      "Белок в каждом приёме пищи",
+      "Сон не менее 7 ч"
+    ]
+  },
+  "day_4": {
+    "title": "День 4 — Тело для силы и изящества",
+    "intro": "Баланс силы и плавности движений.",
+    "video": {
+      "url": "https://example.com/day4_video.mp4",
+      "caption": "Full body (14 мин, продвинутый)."
+    },
+    "meditation": {
+      "url": "https://example.com/day4_meditation.mp3",
+      "caption": "Спокойствие перед едой (5 мин)."
+    },
+    "tasks": [
+      "Планка 2×30–45 сек",
+      "Овощи в 2 приёмах пищи",
+      "Запись благодарности"
+    ]
+  },
+  "day_5": {
+    "title": "День 5 — программа Сияние",
+    "intro": "Здесь будет ваш контент: видео/аудио/задания.",
+    "video": {
+      "url": "https://example.com/day5_video.mp4",
+      "caption": "Замените ссылку или вставьте file_id."
+    },
+    "meditation": {
+      "url": "https://example.com/day5_meditation.mp3",
+      "caption": "Замените ссылку или вставьте file_id."
+    },
+    "tasks": [
+      "BodyFlex 15–20 мин",
+      "Короткая растяжка 5 мин",
+      "Заметка о самочувствии"
+    ]
+  },
+  "day_6": {
+    "title": "День 6 — программа Сияние",
+    "intro": "Здесь будет ваш контент: видео/аудио/задания.",
+    "video": {
+      "url": "https://example.com/day6_video.mp4",
+      "caption": "Замените ссылку или вставьте file_id."
+    },
+    "meditation": {
+      "url": "https://example.com/day6_meditation.mp3",
+      "caption": "Замените ссылку или вставьте file_id."
+    },
+    "tasks": [
+      "BodyFlex 15–20 мин",
+      "Короткая растяжка 5 мин",
+      "Заметка о самочувствии"
+    ]
+  },
+  "day_7": {
+    "title": "День 7 — программа Сияние",
+    "intro": "Здесь будет ваш контент: видео/аудио/задания.",
+    "video": {
+      "url": "https://example.com/day7_video.mp4",
+      "caption": "Замените ссылку или вставьте file_id."
+    },
+    "meditation": {
+      "url": "https://example.com/day7_meditation.mp3",
+      "caption": "Замените ссылку или вставьте file_id."
+    },
+    "tasks": [
+      "BodyFlex 15–20 мин",
+      "Короткая растяжка 5 мин",
+      "Заметка о самочувствии"
+    ]
+  },
+  "day_8": {
+    "title": "День 8 — программа Сияние",
+    "intro": "Здесь будет ваш контент: видео/аудио/задания.",
+    "video": {
+      "url": "https://example.com/day8_video.mp4",
+      "caption": "Замените ссылку или вставьте file_id."
+    },
+    "meditation": {
+      "url": "https://example.com/day8_meditation.mp3",
+      "caption": "Замените ссылку или вставьте file_id."
+    },
+    "tasks": [
+      "BodyFlex 15–20 мин",
+      "Короткая растяжка 5 мин",
+      "Заметка о самочувствии"
+    ]
+  },
+  "day_9": {
+    "title": "День 9 — программа Сияние",
+    "intro": "Здесь будет ваш контент: видео/аудио/задания.",
+    "video": {
+      "url": "https://example.com/day9_video.mp4",
+      "caption": "Замените ссылку или вставьте file_id."
+    },
+    "meditation": {
+      "url": "https://example.com/day9_meditation.mp3",
+      "caption": "Замените ссылку или вставьте file_id."
+    },
+    "tasks": [
+      "BodyFlex 15–20 мин",
+      "Короткая растяжка 5 мин",
+      "Заметка о самочувствии"
+    ]
+  },
+  "day_10": {
+    "title": "День 10 — программа Сияние",
+    "intro": "Здесь будет ваш контент: видео/аудио/задания.",
+    "video": {
+      "url": "https://example.com/day10_video.mp4",
+      "caption": "Замените ссылку или вставьте file_id."
+    },
+    "meditation": {
+      "url": "https://example.com/day10_meditation.mp3",
+      "caption": "Замените ссылку или вставьте file_id."
+    },
+    "tasks": [
+      "BodyFlex 15–20 мин",
+      "Короткая растяжка 5 мин",
+      "Заметка о самочувствии"
+    ]
+  },
+  "day_11": {
+    "title": "День 11 — программа Сияние",
+    "intro": "Здесь будет ваш контент: видео/аудио/задания.",
+    "video": {
+      "url": "https://example.com/day11_video.mp4",
+      "caption": "Замените ссылку или вставьте file_id."
+    },
+    "meditation": {
+      "url": "https://example.com/day11_meditation.mp3",
+      "caption": "Замените ссылку или вставьте file_id."
+    },
+    "tasks": [
+      "BodyFlex 15–20 мин",
+      "Короткая растяжка 5 мин",
+      "Заметка о самочувствии"
+    ]
+  },
+  "day_12": {
+    "title": "День 12 — программа Сияние",
+    "intro": "Здесь будет ваш контент: видео/аудио/задания.",
+    "video": {
+      "url": "https://example.com/day12_video.mp4",
+      "caption": "Замените ссылку или вставьте file_id."
+    },
+    "meditation": {
+      "url": "https://example.com/day12_meditation.mp3",
+      "caption": "Замените ссылку или вставьте file_id."
+    },
+    "tasks": [
+      "BodyFlex 15–20 мин",
+      "Короткая растяжка 5 мин",
+      "Заметка о самочувствии"
+    ]
+  },
+  "day_13": {
+    "title": "День 13 — программа Сияние",
+    "intro": "Здесь будет ваш контент: видео/аудио/задания.",
+    "video": {
+      "url": "https://example.com/day13_video.mp4",
+      "caption": "Замените ссылку или вставьте file_id."
+    },
+    "meditation": {
+      "url": "https://example.com/day13_meditation.mp3",
+      "caption": "Замените ссылку или вставьте file_id."
+    },
+    "tasks": [
+      "BodyFlex 15–20 мин",
+      "Короткая растяжка 5 мин",
+      "Заметка о самочувствии"
+    ]
+  },
+  "day_14": {
+    "title": "День 14 — программа Сияние",
+    "intro": "Здесь будет ваш контент: видео/аудио/задания.",
+    "video": {
+      "url": "https://example.com/day14_video.mp4",
+      "caption": "Замените ссылку или вставьте file_id."
+    },
+    "meditation": {
+      "url": "https://example.com/day14_meditation.mp3",
+      "caption": "Замените ссылку или вставьте file_id."
+    },
+    "tasks": [
+      "BodyFlex 15–20 мин",
+      "Короткая растяжка 5 мин",
+      "Заметка о самочувствии"
+    ]
+  }
+}

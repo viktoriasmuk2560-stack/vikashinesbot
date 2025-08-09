@@ -1,0 +1,14 @@
+[Unit]
+Description=VikaShinesBot
+After=network.target
+
+[Service]
+Type=simple
+Environment=BOT_TOKEN=REPLACE_WITH_YOUR_TOKEN
+WorkingDirectory=/opt/vikashinesbot
+ExecStart=/usr/bin/python3 /opt/vikashinesbot/app.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

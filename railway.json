@@ -1,0 +1,12 @@
+{
+  "name": "VikaShinesBot",
+  "plugins": {
+    "python": {
+      "build": "pip install -r requirements.txt",
+      "start": "python app.py"
+    }
+  },
+  "variables": {
+    "BOT_TOKEN": ""
+  }
+}
